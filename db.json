@@ -1,0 +1,11 @@
+{
+    "notes": [
+        {
+            "id" : 1,
+            "title" : "First Note",
+            "content" : "This is my first MoodNote",
+            "mood" : "😊",
+            "timestamp" : "2025-07-29T20:30:00Z"
+        }
+    ]
+}
