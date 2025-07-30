@@ -1,14 +1,9 @@
 {
   "notes": [
     {
-      "id": "7a07",
-      "title": " Grocery List",
-      "content": "Buy eggs, milk, bread, and a pack of instant noodles."
-    },
-    {
-      "id": "445a",
-      "title": "Dream Log",
-      "content": "Dreamt about flying over a city, very vivid and colorful."
+      "id": 1,
+      "title": "Sample Note",
+      "content": "This is a sample note for MoodNotes."
     }
   ]
 }
